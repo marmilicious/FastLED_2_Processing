@@ -1,5 +1,5 @@
 /*===============================================================
- test_arduino_to_processing_v8
+ arduino_to_processing_v8
  ================================================================
  This program sends an ASCII leter A (byte of value 65) on startup
  and repeats that until it gets a response (a letter back) from Processing.
