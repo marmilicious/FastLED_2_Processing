@@ -1,6 +1,7 @@
 # FastLED_2_Processing
 Sketches for sending FastLED pixel data to Processing (via serial connection)
 
+*NOTE:  This requires the older version of Processing 2.2.1*
 
 FastLED Library info can be be found here: [fastled.io](http://fastled.io/)
 
