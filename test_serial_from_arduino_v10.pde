@@ -2,6 +2,7 @@
   test_serial_from_arduino_v10.pde
   Marc Miller,  April 2015
 
+  *** Note: You need to run this with the older Processing 2.2.1 ***
 ================================================================================
   This Processing program receives pixel data from an Arduino sketch running
   FastLED.  An Arduino demo sketch can be used to test it out:
